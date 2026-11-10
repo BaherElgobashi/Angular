@@ -7,6 +7,6 @@ import { RouterOutlet } from '@angular/router';
   templateUrl: './nav.html',
   styleUrl: './nav.css',
 })
-export class App {
+export class Navbar {
   protected readonly title = signal('app');
 }
